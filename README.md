@@ -7,7 +7,7 @@ My name is Diwberg, I'm a Developer from Brazil, I like to solve problems, not o
 
 <br/> - :computer: In constant learning...
 <br/> - :rocket: I’m learning HTML, CSS, JS, Bootstrap, Angular, React, Node, JQuery, Sass, Less, PHP, Java, Python, React Native, Flutter, SQL, NoSQL and others...
-<br/> - 💬 About Me: I've been programming since 2012, starting with .Net... <br/>I completed my first course in Portugal, "Installation and Maintenance of computer equipment", in 2009...<br>
+<br/> - 💬 About Me: I've been programming since 2012, starting with .Net. <br/>I completed my first course in Portugal, "Installation and Maintenance of computer equipment", in 2009.<br>
 Since then, i have been in love with the world of technology!
 <br/>
  
