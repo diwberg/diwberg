@@ -25,7 +25,7 @@ Since then, i have been in love with the world of technology!
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=diwberg&count_private=true&show_icons=true&theme=radical"
+      src="https://github-readme-stats.vercel.app/api?username=diwberg&count_private=true&show_icons=true&theme=prussian"
     />
   </a>
 </p>
