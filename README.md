@@ -33,9 +33,8 @@ Since then, i have been in love with the world of technology!
 
 ### Find me around the web 🌎:
 <a href="mailto:diwberg@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg"   align="left" alt="gmail" width="26px"/></a>
-<!--<a href="(https://api.whatsapp.com/send?phone=5562991257669&text=Olá%eu%vim%por%meio%do%seu%Link%do%Whatsapp."><img src="https://www.flaticon.com/svg/static/icons/svg/733/733585.svg" alt="Whatsapp"  align="left" width="26px" /></a>-->
+<a href="https://diwberg.github.io/Portfolio/index.html"><img src="https://www.flaticon.com/svg/vstatic/svg/4136/4136610.svg" alt="website"  align="left" width="26px" /></a>
 <a href="https://www.linkedin.com/in/diwberg-de-andrade-pereira-7670a91ab/" target="_blank" rel="external"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin"  align="left" width="26px"/></a> 
 
 <br/>
                             
-
