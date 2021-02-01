@@ -21,14 +21,14 @@ Since then, i have been in love with the world of technology!
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwberg&layout=compact"
     />
   </a>-->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+ <!--> <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
       src="https://github-readme-stats.vercel.app/api?username=diwberg&count_private=true&show_icons=true&theme=prussian"
     />
   </a>
-</p>
+</p>-->
 
 
 ### Find me around the web 🌎:
