@@ -10,7 +10,7 @@ My name is Diwberg, I'm a Developer from Brazil, I like to solve problems, not o
 <br/> - 💬 About Me: I've been programming since 2012, starting with .Net. <br/>I completed my first course in Portugal, "Installation and Maintenance of computer equipment", in 2009.<br>
 Since then, i have been in love with the world of technology!
 <br/>
- 
+ <a href="https://diwberg.github.io/Portfolio/index.html">Portfólio</a>
  
 <br/> 
  
@@ -33,6 +33,6 @@ Since then, i have been in love with the world of technology!
 
 ### Find me around the web 🌎:
 <a href="mailto:diwberg@gmail.com"><img src="https://www.flaticon.com/svg/static/icons/svg/281/281769.svg"  align="left" alt="gmail" width="26px"/></a>
-<a href="https://diwberg.github.io/Portfolio/index.html"><img src="https://www.flaticon.com/svg/vstatic/svg/1/1198.svg" alt="portfolio"  align="left" width="26px" /></a>
+<a href="https://diwberg.github.io/Portfolio/index.html"></a>
 <a href="https://www.linkedin.com/in/diwberg-de-andrade-pereira-7670a91ab/" target="_blank" rel="external"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin"  align="left" width="26px"/></a> 
 <br/>
