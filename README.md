@@ -36,4 +36,3 @@ Since then, i have been in love with the world of technology!
 <a href="https://diwberg.github.io/Portfolio/index.html"><img src="" alt="website"  align="left" width="26px" /></a>
 <a href="https://www.linkedin.com/in/diwberg-de-andrade-pereira-7670a91ab/" target="_blank" rel="external"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="linkedin"  align="left" width="26px"/></a> 
 <br/>
-
