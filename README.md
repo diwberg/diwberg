@@ -5,7 +5,7 @@
 ## 👋Welcome to my World <img align="right" width="400" src="https://media0.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e477d07cb985aa03e0fe8362322b249add8b41a3971&rid=giphy.gif" />
 My name is Diwberg, I'm a Developer from Brazil, I like to solve problems, not only in programming...
 
-<br/> - :computer: In constant learning...
+<br/>
 <br/>
 Olá, Mundo! 👋 Sou o entusiasta da tecnologia do seu bairro, com o dom de tornar o complicado como um dia de verão agradável.
 
