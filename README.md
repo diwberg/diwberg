@@ -6,6 +6,7 @@
 My name is Diwberg, I'm a Developer from Brazil, I like to solve problems, not only in programming...
 
 <br/> - :computer: In constant learning...
+<br/>
 Olá, Mundo! 👋 Sou o entusiasta da tecnologia do seu bairro, com o dom de tornar o complicado como um dia de verão agradável.
 
 Passei anos decifrando a Pedra de Roseta que é o desenvolvimento de software, traduzindo códigos complexos em narrativas simples e belas. Minha história de amor com a tecnologia começou com um simples "Hello World!" em Python e agora, construímos castelos no céu com os tijolos de JavaScript, Python, Ruby e mais.
