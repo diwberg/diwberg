@@ -54,6 +54,10 @@ Here's to the open source universe, let's make a dent in it, together! 🚀
 ![Hosting](https://img.shields.io/badge/-Hosting-%23333?style=plastic-square&logo=internetexplorer)
 
 
+![HTML](https://img.shields.io/badge/-HTML-%23333?style=plastic-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-%23333?style=plastic-square&logo=css3)
+![JS](https://img.shields.io/badge/-JavaScript-%23333?style=plastic-square&logo=javascript)
+
 ![PHP](https://img.shields.io/badge/-PHP-%23333?style=plastic-square&logo=php)
 ![Node](https://img.shields.io/badge/-Node-%23333?style=plastic-square&logo=nodedotjs)
 ![HTTPS](https://img.shields.io/badge/-HTTPS-%23333?style=plastic-square&logo=internetexplorer)
