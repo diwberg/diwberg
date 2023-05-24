@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FAFAD2&size=35&center=true&vCenter=true&width=1000&lines=Hi,+welcome+!!!;I'm+Diwberg+and+i+love+programing;If+you+are+a+recruiter;I'm+seeking+an+oportunity)](https://git.io/typing-svg)
-## Welcome to my World <img align="right" width="400" src="https://media0.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e477d07cb985aa03e0fe8362322b249add8b41a3971&rid=giphy.gif" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&size=35&duration=3000&pause=1000&color=F7C544&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+my+GitHub...+If+you're+a+recruiter...+;Hit+me+up+-+I'm+looking+for+new+opportunities!)](https://git.io/typing-svg)
+## _My knowledge is just below, ~~but that's not important~~. You gotta care about what I can learn...._ 
+<img align="right" width="400" src="https://media0.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=ecf05e477d07cb985aa03e0fe8362322b249add8b41a3971&rid=giphy.gif" style="margin: 20px;" />
 
 
 My name is Diwberg, I'm a Developer from Brazil, I like to solve problems, not only programming...
@@ -32,29 +33,14 @@ Here's to the open source universe, let's make a dent in it, together! 🚀
 
 <br/> 
  
- <!--<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwberg&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=diwberg&count_private=true&show_icons=true&theme=prussian"
-    />
-  </a>
-</p>-->
 
-## 🔮 Tecnology
+# 🔮 Knowledge
 ![HTTPS](https://img.shields.io/badge/-HTTPS-%23333?style=plastic-square&logo=internetexplorer)
-![FTP](https://img.shields.io/badge/-FTP-%23333?style=plastic-square&logo=internetexplorer)
-![SMTP](https://img.shields.io/badge/-SMTP-%23333?style=plastic-square&logo=internetexplorer)
-![SSH](https://img.shields.io/badge/-SSH-%23333?style=plastic-square&logo=internetexplorer)
-![DNS](https://img.shields.io/badge/-DNS-%23333?style=plastic-square&logo=internetexplorer)
-![Hosting](https://img.shields.io/badge/-Hosting-%23333?style=plastic-square&logo=internetexplorer)
+![FTP](https://img.shields.io/badge/-FTP-%23333?style=plastic-square&logo=amazonec2)
+![SMTP](https://img.shields.io/badge/-SMTP-%23333?style=plastic-square&logo=minutemailer)
+![SSH](https://img.shields.io/badge/-SSH-%23333?style=plastic-square&logo=gnometerminal)
+![DNS](https://img.shields.io/badge/-DNS-%23333?style=plastic-square&logo=instatus)
+![Hosting](https://img.shields.io/badge/-Hosting-%23333?style=plastic-square&logo=hotelsdotcom)
 
 
 
