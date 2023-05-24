@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&size=35&duration=3000&pause=1000&color=F7C544&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+my+GitHub...+If+you're+a+recruiter...+;Hit+me+up+-+I'm+looking+for+new+opportunities!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&size=35&duration=3000&pause=0&color=F7C544&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Welcome+to+my+GitHub...+If+you're+a+recruiter...+;Hit+me+up+-+I'm+looking+for+new+opportunities!)](https://git.io/typing-svg)
 ## _My knowledge is just below, ~~but that's not important~~. You gotta care about what I can learn...._ 
 ## _Meus conhecimentos estão logo abaixo, ~~mas isso não é o mais importante~~. Você deveria se preocupar com o que eu posso aprender...._ 
 
