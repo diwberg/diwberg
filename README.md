@@ -33,20 +33,22 @@ Here's to the open source universe, let's make a dent in it, together! 🚀
 
 <br/> 
  
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&size=35&duration=3000&pause=1000&color=F7C544&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=In+continuous+learning...)](https://git.io/typing-svg)
 # 🔮 Knowledge
-![HTTPS](https://img.shields.io/badge/-HTTPS-%23333?style=plastic-square&logo=internetexplorer)
-![FTP](https://img.shields.io/badge/-FTP-%23333?style=plastic-square&logo=amazonec2)
-![SMTP](https://img.shields.io/badge/-SMTP-%23333?style=plastic-square&logo=minutemailer)
-![SSH](https://img.shields.io/badge/-SSH-%23333?style=plastic-square&logo=gnometerminal)
-![DNS](https://img.shields.io/badge/-DNS-%23333?style=plastic-square&logo=instatus)
-![Hosting](https://img.shields.io/badge/-Hosting-%23333?style=plastic-square&logo=hotelsdotcom)
+![HTTPS](https://img.shields.io/badge/-HTTPS-%23333?style=plastic-square&logo=internetexplorer&logoColor=white)
+![FTP](https://img.shields.io/badge/-FTP-%23333?style=plastic-square&logo=amazonec2&logoColor=white)
+![SMTP](https://img.shields.io/badge/-SMTP-%23333?style=plastic-square&logo=minutemailer&logoColor=white)
+![SSH](https://img.shields.io/badge/-SSH-%23333?style=plastic-square&logo=gnometerminal&logoColor=white)
+![DNS](https://img.shields.io/badge/-DNS-%23333?style=plastic-square&logo=instatus&logoColor=white)
+![Hosting](https://img.shields.io/badge/-Hosting-%23333?style=plastic-square&logo=hotelsdotcom&logoColor=white)
+![Unix](https://img.shields.io/badge/-Unix-%23333?style=plastic-square&logo=linux&logoColor=white)
+![macOs](https://img.shields.io/badge/-macOS-%23333?style=plastic-square&logo=apple&logoColor=white)
 
 
 
-![HTML](https://img.shields.io/badge/-HTML-%23333?style=plastic-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-%23333?style=plastic-square&logo=css3&logoColor=%1572B6)
-![JS](https://img.shields.io/badge/-JavaScript-%23333?style=plastic-square&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-%23E34F26?style=plastic-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-%231572B6?style=plastic-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=plastic-square&logo=javascript&logoColor=white)
 
 
 ![Git](https://img.shields.io/badge/-Git%2FGitHub-%23333?style=plastic-square&logo=github)
