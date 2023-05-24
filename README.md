@@ -55,8 +55,15 @@ Here's to the open source universe, let's make a dent in it, together! 🚀
 
 
 ![PHP](https://img.shields.io/badge/-PHP-%23333?style=plastic-square&logo=php)
+![Composer](https://img.shields.io/badge/-Composer-%23885630?style=plastic-square&logo=composer)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23333?style=plastic-square&logo=bootstrap)
+![Jquery](https://img.shields.io/badge/-jQuery-%23333?style=plastic-square&logo=jquery&logoColor=%230769AD)
+![Ajax](https://img.shields.io/badge/-Ajax-%23333?style=plastic-square&logo=jquery&logoColor=%230769AD)
+![Sass](https://img.shields.io/badge/-Sass-%23333?style=plastic-square&logo=sass)
+
 ![Node](https://img.shields.io/badge/-Node-%23333?style=plastic-square&logo=nodedotjs)
-![HTTPS](https://img.shields.io/badge/-HTTPS-%23333?style=plastic-square&logo=internetexplorer)
+
+
 ![DNS](https://img.shields.io/badge/-DNS-%23333?style=plastic-square&logo=internetexplorer)
 ![Hosting](https://img.shields.io/badge/-Hosting-%23333?style=plastic-square&logo=internetexplorer)
 
