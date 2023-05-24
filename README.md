@@ -50,13 +50,21 @@ Here's to the open source universe, let's make a dent in it, together! 🚀
 
 ## 🔮 Tecnology
 ![HTTPS](https://img.shields.io/badge/-HTTPS-%23333?style=plastic-square&logo=internetexplorer)
+![FTP](https://img.shields.io/badge/-FTP-%23333?style=plastic-square&logo=internetexplorer)
+![SMTP](https://img.shields.io/badge/-SMTP-%23333?style=plastic-square&logo=internetexplorer)
+![SSH](https://img.shields.io/badge/-SSH-%23333?style=plastic-square&logo=internetexplorer)
 ![DNS](https://img.shields.io/badge/-DNS-%23333?style=plastic-square&logo=internetexplorer)
 ![Hosting](https://img.shields.io/badge/-Hosting-%23333?style=plastic-square&logo=internetexplorer)
 
 
+
 ![HTML](https://img.shields.io/badge/-HTML-%23333?style=plastic-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-%23333?style=plastic-square&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS-%23333?style=plastic-square&logo=css3&logoColor=%1572B6)
 ![JS](https://img.shields.io/badge/-JavaScript-%23333?style=plastic-square&logo=javascript)
+
+
+![Git](https://img.shields.io/badge/-Git%2FGitHub-%23333?style=plastic-square&logo=github)
+
 
 ![PHP](https://img.shields.io/badge/-PHP-%23333?style=plastic-square&logo=php)
 ![Node](https://img.shields.io/badge/-Node-%23333?style=plastic-square&logo=nodedotjs)
