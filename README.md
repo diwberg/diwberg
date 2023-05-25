@@ -20,6 +20,7 @@
 
 
 ![Git](https://img.shields.io/badge/-Git%2FGitHub-%23333?style=plastic-square&logo=github)
+![ESLint](https://img.shields.io/badge/-ESLint-%23333?style=plastic-square&logo=eslint&logoColor=%234B32C3)
 
 
 ![PHP](https://img.shields.io/badge/-PHP-%23333?style=plastic-square&logo=php)
