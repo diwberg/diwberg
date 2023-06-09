@@ -22,6 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git%2FGitHub-%23333?style=plastic-square&logo=github)
 ![ESLint](https://img.shields.io/badge/-ESLint-%23333?style=plastic-square&logo=eslint&logoColor=%234B32C3)
 
+![Java](https://img.shields.io/badge/-Java-%23333?style=plastic-square&logo=coffeescript)
 
 ![PHP](https://img.shields.io/badge/-PHP-%23333?style=plastic-square&logo=php)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23333?style=plastic-square&logo=bootstrap)
@@ -34,43 +35,27 @@
 ![React](https://img.shields.io/badge/-React-%23333?style=plastic-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23333?style=plastic-square&logo=typescript)
 ![NextJs](https://img.shields.io/badge/-Next.js-%23333?style=plastic-square&logo=nextdotjs)
+![React-Router](https://img.shields.io/badge/-React%20Router-%23333?style=plastic-square&logo=reactrouter)
+![React-Hook-Form](https://img.shields.io/badge/-React%20Hook%20Form%2FZod-%23333?style=plastic-square&logo=reacthookform)
+![API](https://img.shields.io/badge/-APIs-%23333?style=plastic-square&logo=json)
+![OAuth](https://img.shields.io/badge/-OAuth-%23333?style=plastic-square&logo=webauthn)
+![JWT](https://img.shields.io/badge/-JWT-%23333?style=plastic-square&logo=jsonwebtokens)
 ![CSS Module](https://img.shields.io/badge/-CSS%20Module-%23333?style=plastic-square&logo=cssmodules)
+![Styled-Components](https://img.shields.io/badge/-Styled%20Components-%23333?style=plastic-square&logo=styledcomponents)
 ![Taiwind](https://img.shields.io/badge/-Tailwind%20CSS-%23333?style=plastic-square&logo=tailwindcss)
 
 
 ![Composer](https://img.shields.io/badge/-Composer-%23333?style=plastic-square&logo=composer&logoColor=%23885630)
 ![npm](https://img.shields.io/badge/-npm-%23333?style=plastic-square&logo=npm)
-![yarn](https://img.shields.io/badge/-yarn-%23333?style=plastic-square&logo=yarn)
+![JSON](https://img.shields.io/badge/-JSON-%23333?style=plastic-square&logo=json)
 
 
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-%23333?style=plastic-square&logo=microsoft-sql-server&logoColor=%23CC2927)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23333?style=plastic-square&logo=mysql)
+![Firebase](https://img.shields.io/badge/-Firebase-%23333?style=plastic-square&logo=firebase)
 
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-%23333?style=plastic-square&logo=immer&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%23333?style=plastic-square&logo=docker)
-
-### Learning | Aprendendo
-
-![Java](https://img.shields.io/badge/-Java-%23333?style=plastic-square&logo=coffeescript)
-![progress](https://progress-bar.dev/80/ "progress")
-
-
-![OAuth](https://img.shields.io/badge/-OAuth-%23333?style=plastic-square&logo=webauthn)
-![progress](https://progress-bar.dev/40/ "progress")
-
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-%23333?style=plastic-square&logo=mongodb)
-![progress](https://progress-bar.dev/30/ "progress")
-
-
-![JSON API](https://img.shields.io/badge/-JSON%20API-%23333?style=plastic-square&logo=json)
-![progress](https://progress-bar.dev/25/ "progress")
-
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-%23333?style=plastic-square&logo=graphql&logoColor=%23E10098)
-![React Native](https://img.shields.io/badge/-React%20Native-%23333?style=plastic-square&logo=react)
-![progress](https://progress-bar.dev/0/ "progress")
-
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pangolin&size=35&duration=3000&pause=1000&color=F7C544&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=In+continuous+learning...)](https://git.io/typing-svg)
