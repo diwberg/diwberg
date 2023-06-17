@@ -32,6 +32,8 @@
 
 
 ![Node](https://img.shields.io/badge/-Node-%23333?style=plastic-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/-Express-%23333?style=plastic-square&logo=express)
+![Prisma](https://img.shields.io/badge/-Prisma-%23333?style=plastic-square&logo=prisma)
 ![React](https://img.shields.io/badge/-React-%23333?style=plastic-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23333?style=plastic-square&logo=typescript)
 ![NextJs](https://img.shields.io/badge/-Next.js-%23333?style=plastic-square&logo=nextdotjs)
@@ -53,6 +55,7 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-%23333?style=plastic-square&logo=microsoft-sql-server&logoColor=%23CC2927)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23333?style=plastic-square&logo=mysql)
 ![Firebase](https://img.shields.io/badge/-Firebase-%23333?style=plastic-square&logo=firebase)
+
 
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-%23333?style=plastic-square&logo=immer&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-%23333?style=plastic-square&logo=docker)
