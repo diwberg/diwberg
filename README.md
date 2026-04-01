@@ -115,78 +115,73 @@ Currently studying **Software Engineering** at UNIGRAN (Goiânia campus) and alw
 
 ## 🚀 Projetos em Destaque | Featured Projects
 
-<table>
-  <tr>
-    <td width="100%">
-      <h3>🤖 Meet AI — Plataforma de Reuniões com Agentes de IA</h3>
-      <p>Aplicação full stack de videoconferência com agentes de IA integrados. Cada reunião conta com um agente que participa em tempo real via OpenAI Realtime API, transcreve automaticamente, gera resumos pós-reunião e permite interação por chat. Background jobs orquestrados com Inngest Agent Kit, videochamadas com Stream.io Video SDK, chat com Stream Chat e faturamento por uso com Stripe + Polar.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stream.io-005FFF?style=flat-square&logo=stream&logoColor=white" />
-        <img src="https://img.shields.io/badge/Inngest-6B21A8?style=flat-square&logo=inngest&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI_Realtime-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Better_Auth-1A1A1A?style=flat-square&logo=auth0&logoColor=white" />
-        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-      </p>
-      <p><a href="https://github.com/diwberg/meetai">💻 Repo</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎙️ VoiceForge SaaS <sub><sup>TCC · 2026</sup></sub></h3>
-      <p>Plataforma SaaS multi-tenant de geração de áudio e clonagem de voz com IA auto-hospedada (Chatterbox TTS em GPU serverless). Pay-as-you-go, multi-tenant, tRPC type-safe.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>💰 Financial Control System</h3>
-      <p>Dashboard financeiro completo com gráficos dinâmicos, filtros por período, autenticação e banco serverless. Full stack do banco à UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=nextdotjs" />
-        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-        <img src="https://img.shields.io/badge/Neon_DB-00E5BF?style=flat-square&logo=neon&logoColor=black" />
-      </p>
-      <p>
-        <a href="https://control-tau.vercel.app/">🔗 Demo</a> ·
-        <a href="https://github.com/diwberg/control">💻 Repo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📦 n8n-nodes-llm-langfuse</h3>
-      <p>Pacote open source publicado no npm. Integra LLMs (OpenAI, Gemini, Groq) com observabilidade via Langfuse no ecossistema n8n.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-        <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/diwberg/n8n-nodes-llm-langfuse">💻 Repo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>⏱️ React Pomodoro Timer</h3>
-      <p>App de produtividade com histórico de sessões, controles completos e persistência via localStorage. Deploy em produção.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://react-pomodoro-dusky.vercel.app/">🔗 Demo</a> ·
-        <a href="https://github.com/diwberg/react-pomodoro">💻 Repo</a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🤖 Meet AI — Plataforma de Reuniões com Agentes de IA
+
+> Aplicação full stack de videoconferência com agentes de IA integrados. Cada reunião conta com um agente que participa em tempo real via OpenAI Realtime API, transcreve automaticamente, gera resumos pós-reunião e permite interação por chat. Background jobs orquestrados com Inngest Agent Kit, videochamadas com Stream.io Video SDK, chat em tempo real com Stream Chat e faturamento por uso com Stripe + Polar.
+
+![Next.js 15](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=nextdotjs)
+![React 19](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Stream.io](https://img.shields.io/badge/Stream.io-005FFF?style=flat-square&logo=stream&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-6B21A8?style=flat-square&logo=inngest&logoColor=white)
+![OpenAI Realtime](https://img.shields.io/badge/OpenAI_Realtime-412991?style=flat-square&logo=openai&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-1A1A1A?style=flat-square&logo=auth0&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+💻 [Repositório](https://github.com/diwberg/meetai)
+
+---
+
+### 🎙️ VoiceForge SaaS `TCC · 2026`
+
+> Plataforma SaaS multi-tenant de geração de áudio e clonagem de voz com IA auto-hospedada (Chatterbox TTS em GPU serverless). Pay-as-you-go, multi-tenant, tRPC type-safe.
+
+![Next.js 16](https://img.shields.io/badge/Next.js_16-black?style=flat-square&logo=nextdotjs)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-1A1A1A?style=flat-square&logo=auth0&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+---
+
+### 💰 Financial Control System
+
+> Dashboard financeiro completo com rastreamento de receitas/despesas, gráficos dinâmicos, filtros por período, autenticação e banco serverless. Full stack do banco à UI.
+
+![Next.js 14](https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=nextdotjs)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Neon DB](https://img.shields.io/badge/Neon_DB-00E5BF?style=flat-square&logo=neon&logoColor=black)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+🔗 [Demo](https://control-tau.vercel.app/) · 💻 [Repositório](https://github.com/diwberg/control)
+
+---
+
+### 📦 n8n-nodes-llm-langfuse
+
+> Pacote open source publicado no npm. Integra LLMs (OpenAI, Gemini, Groq) com observabilidade via Langfuse diretamente no ecossistema n8n.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+
+💻 [Repositório](https://github.com/diwberg/n8n-nodes-llm-langfuse)
+
+---
+
+### ⏱️ React Pomodoro Timer
+
+> App de produtividade com timer Pomodoro, histórico de sessões, controles completos e persistência via localStorage. Deploy em produção.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+🔗 [Demo](https://react-pomodoro-dusky.vercel.app/) · 💻 [Repositório](https://github.com/diwberg/react-pomodoro)
 
 ---
 
