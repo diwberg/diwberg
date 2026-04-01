@@ -88,6 +88,13 @@ Currently studying **Software Engineering** at UNIGRAN (Goiânia campus) and alw
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
+### 🔌 Integrações & Serviços
+![Stream.io](https://img.shields.io/badge/Stream.io-005FFF?style=flat-square&logo=stream&logoColor=white)
+![Inngest](https://img.shields.io/badge/Inngest-6B21A8?style=flat-square&logo=inngest&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+
 ### 🤖 AI-Assisted Development
 ![Claude](https://img.shields.io/badge/Claude_(Anthropic)-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
@@ -110,6 +117,24 @@ Currently studying **Software Engineering** at UNIGRAN (Goiânia campus) and alw
 
 <table>
   <tr>
+    <td width="100%">
+      <h3>🤖 Meet AI — Plataforma de Reuniões com Agentes de IA</h3>
+      <p>Aplicação full stack de videoconferência com agentes de IA integrados. Cada reunião conta com um agente que participa em tempo real via OpenAI Realtime API, transcreve automaticamente, gera resumos pós-reunião e permite interação por chat. Background jobs orquestrados com Inngest Agent Kit, videochamadas com Stream.io Video SDK, chat com Stream Chat e faturamento por uso com Stripe + Polar.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stream.io-005FFF?style=flat-square&logo=stream&logoColor=white" />
+        <img src="https://img.shields.io/badge/Inngest-6B21A8?style=flat-square&logo=inngest&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI_Realtime-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Better_Auth-1A1A1A?style=flat-square&logo=auth0&logoColor=white" />
+        <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      </p>
+      <p><a href="https://github.com/diwberg/meetai">💻 Repo</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3>🎙️ VoiceForge SaaS <sub><sup>TCC · 2026</sup></sub></h3>
       <p>Plataforma SaaS multi-tenant de geração de áudio e clonagem de voz com IA auto-hospedada (Chatterbox TTS em GPU serverless). Pay-as-you-go, multi-tenant, tRPC type-safe.</p>
@@ -122,7 +147,7 @@ Currently studying **Software Engineering** at UNIGRAN (Goiânia campus) and alw
     </td>
     <td width="50%">
       <h3>💰 Financial Control System</h3>
-      <p>Sistema completo de gestão financeira com gráficos dinâmicos, filtros por período, autenticação e banco serverless.</p>
+      <p>Dashboard financeiro completo com gráficos dinâmicos, filtros por período, autenticação e banco serverless. Full stack do banco à UI.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js_14-black?style=flat-square&logo=nextdotjs" />
         <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
