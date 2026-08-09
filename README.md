@@ -21,25 +21,29 @@
 
 ## 🇧🇷 Sobre mim
 
-Sou **Desenvolvedor Full Stack** com foco em **JavaScript e TypeScript** — construindo aplicações web modernas de ponta a ponta, do banco de dados à interface.
+**Desenvolvedor Full Stack** especializado em **TypeScript** no ecossistema React/Next.js e Node. Atuo no ciclo completo do produto: modelagem de dados, API, interface e deploy.
 
-Tenho mais de 10 anos de background em operações e sistemas ERP, o que me dá uma visão de negócio diferenciada: entendo o impacto real que cada linha de código tem nos processos e nas pessoas. Desde 2021 venho me dedicando ao desenvolvimento moderno, com forte cultura de código limpo, boas práticas e entrega de valor real.
+Antes de programar profissionalmente, passei mais de 10 anos em operações e sistemas ERP. Isso definiu a forma como construo software: começo pelo processo e por quem vai usar, não pela tela. Questiono requisito, discuto escopo e entrego o que resolve o problema — inclusive quando a resposta certa é cortar funcionalidade.
 
-Atualmente cursando **Engenharia de Software** na UNIGRAN (polo Goiânia) e sempre em aprendizado contínuo. 🚀
+Meu diferencial está na **arquitetura**: desenho sistemas pensando em escala desde o primeiro dia — separação clara de responsabilidades, contratos de API bem definidos, estratégia de cache e consultas que não quebram quando o volume cresce. Desenvolvo em **ambientes containerizados**, com paridade entre local e produção, e mantenho **pipelines de CI/CD** que automatizam build, teste e deploy.
 
-> _O mais importante não é o que sei hoje — é a velocidade com que aprendo._
+Hoje entrego de ponta a ponta em projetos de qualquer porte: de MVP validado em semanas a plataforma multi-tenant em produção, com portal web e app mobile consumindo a mesma API. Escolho a stack pelo problema, não pela tendência do momento.
+
+> _O código é o meio. O que entrego é o problema resolvido._
 
 ---
 
 ## 🇺🇸 About me
 
-I'm a **Full Stack Developer** focused on **JavaScript and TypeScript** — building modern web applications end-to-end, from the database to the UI.
+**Full Stack Developer** specialized in **TypeScript** across the React/Next.js and Node ecosystem. I work the full product cycle: data modeling, API, UI, and deployment.
 
-I have 10+ years of background in operations and ERP systems, giving me a business-oriented perspective: I understand how software truly impacts people and processes. Since 2021, I've been dedicated to modern web development, with a strong culture of clean code, best practices, and delivering real value.
+Before coding professionally, I spent 10+ years in operations and ERP systems. That shaped how I build software: I start from the process and the people using it, not from the screen. I question requirements, push back on scope, and ship what actually solves the problem — including when the right answer is to cut a feature.
 
-Currently studying **Software Engineering** at UNIGRAN (Goiânia campus) and always learning. 🚀
+My edge is **architecture**: I design systems for scale from day one — clear separation of concerns, well-defined API contracts, caching and query strategies that hold up as volume grows. I develop in **containerized environments**, keeping local and production in parity, and maintain **CI/CD pipelines** that automate build, test, and deploy.
 
-> _What matters most isn't what I know today — it's how fast I learn._
+Today I deliver end-to-end on projects of any size: from an MVP validated in weeks to a multi-tenant platform running in production, with a web portal and a mobile app consuming the same API. I choose the stack based on the problem, not on what's trending.
+
+> _Code is the means. What I deliver is the problem solved._
 
 ---
 
@@ -59,6 +63,12 @@ Currently studying **Software Engineering** at UNIGRAN (Goiânia campus) and alw
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
 
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000020?style=flat-square&logo=expo&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -73,19 +83,26 @@ Currently studying **Software Engineering** at UNIGRAN (Goiânia campus) and alw
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Neon](https://img.shields.io/badge/Neon_DB-00E5BF?style=flat-square&logo=neon&logoColor=black)
 
-### ⚙️ DevOps & Tools
+### ⚙️ Infra, DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4A4A4A?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### 🧰 Ferramentas | Tooling
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 ### 🔌 Integrações & Serviços
@@ -110,6 +127,52 @@ Currently studying **Software Engineering** at UNIGRAN (Goiânia campus) and alw
 | 🏛️ **Engenharia de Software** | Centro Universitário da Grande Dourados — **UNIGRAN** |
 | 📍 Polo Goiânia | Cursando · Previsão de conclusão: 2026 |
 | 🚀 **Trilha Full Stack** | **Rocketseat** — React · Next.js · Node.js · TypeScript · APIs |
+
+---
+
+## 💼 Experiência Profissional | Professional Work
+
+> Projetos de código fechado nos quais atuei. Os repositórios são privados, então não há links públicos — a descrição cobre escopo e minha contribuição.
+>
+> _Closed-source projects I've worked on. Repositories are private, so there are no public links — the description covers scope and my contribution._
+
+### 🚚 Rede Logistics — Plataforma de Operações de Entrega
+
+![Repositório Privado](https://img.shields.io/badge/Reposit%C3%B3rio-Privado-6E7681?style=flat-square&logo=github&logoColor=white)
+[![SoftSapiens Solutions](https://img.shields.io/badge/Org-SoftSapiens_Solutions-1A56A0?style=flat-square&logo=github&logoColor=white)](https://github.com/softsapienssolutions)
+![2026](https://img.shields.io/badge/2026-%C2%B7_em_andamento-22C55E?style=flat-square)
+
+> Monorepo de uma plataforma de gestão de entregas — motoristas, jobs, paradas e execução em campo. Composto por API ASP.NET Core, portal de backoffice em Next.js e app mobile em Expo/React Native para os motoristas.
+
+**Minha contribuição** — responsável por praticamente todo o front-end do portal e do app mobile:
+
+- Construção de páginas e fluxos completos do portal, do roteamento à integração com a API
+- Biblioteca de componentes reutilizáveis compartilhada entre as telas do produto
+- Tabelas de dados com paginação server-side, ordenação, filtros combinados e seleção de linhas
+- Formulários complexos: dialogs multi-step, edição inline, validação por schema e unificação de formulários de criação/edição
+- Controle de estado da aplicação com Zustand e cache de dados de servidor com TanStack Query
+- Dashboard de entregas com gráficos e indicadores consumindo a API de métricas
+- Tratamento de datas e fuso: formatação seguindo a preferência de cada conta, agendamentos e janelas de execução
+- Views de jobs agendados, filtros de operação e ações em massa
+- App mobile em Expo: internacionalização (autenticação, agenda e perfil), layouts adaptados para tablet em retrato e paisagem
+- Geração de PDF de jobs e relatórios de comprovação de entrega
+- Autenticação e gestão de usuários, motoristas e frota, incluindo troca de senha pelo backoffice
+
+**My contribution** — owned virtually the entire front-end of the portal and the mobile app:
+
+- Full portal pages and flows, from routing to API integration
+- Reusable component library shared across product screens
+- Data tables with server-side pagination, sorting, combined filters, and row selection
+- Complex forms: multi-step dialogs, inline editing, schema validation, and unified create/edit forms
+- Application state with Zustand and server-state caching with TanStack Query
+- Deliveries dashboard with charts and KPIs consuming the metrics API
+- Date and timezone handling: per-account format preferences, scheduling, and execution windows
+- Scheduled jobs views, operational filters, and bulk actions
+- Expo mobile app: internationalization (auth, schedule, profile) and tablet layouts in portrait and landscape
+- Job PDF generation and proof-of-delivery reports
+- Authentication and management of users, drivers, and fleet, including backoffice password changes
+
+**Stack:** Next.js · React Native · Expo · TypeScript · TanStack Query · Zustand · Zod · Tailwind CSS · NativeWind · Supabase · PostgreSQL · ASP.NET Core (API) · GitHub Actions
 
 ---
 
@@ -182,28 +245,6 @@ Currently studying **Software Engineering** at UNIGRAN (Goiânia campus) and alw
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 🔗 [Demo](https://react-pomodoro-dusky.vercel.app/) · 💻 [Repositório](https://github.com/diwberg/react-pomodoro)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=diwberg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwberg&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
-
----
-
-## 📬 Contato | Contact
-
-<div align="center">
-
-Aberto a oportunidades · Open to opportunities 🤝
-
-[![Gmail](https://img.shields.io/badge/Gmail-diwberg%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diwberg@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwberg/)
-
-</div>
 
 ---
 
