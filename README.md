@@ -144,6 +144,20 @@ Today I deliver end-to-end on projects of any size: from an MVP validated in wee
 
 > Monorepo de uma plataforma de gestão de entregas — motoristas, jobs, paradas e execução em campo. Composto por API ASP.NET Core, portal de backoffice em Next.js e app mobile em Expo/React Native para os motoristas.
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
 **Minha contribuição** — responsável por praticamente todo o front-end do portal e do app mobile:
 
 - Construção de páginas e fluxos completos do portal, do roteamento à integração com a API
@@ -171,8 +185,6 @@ Today I deliver end-to-end on projects of any size: from an MVP validated in wee
 - Expo mobile app: internationalization (auth, schedule, profile) and tablet layouts in portrait and landscape
 - Job PDF generation and proof-of-delivery reports
 - Authentication and management of users, drivers, and fleet, including backoffice password changes
-
-**Stack:** Next.js · React Native · Expo · TypeScript · TanStack Query · Zustand · Zod · Tailwind CSS · NativeWind · Supabase · PostgreSQL · ASP.NET Core (API) · GitHub Actions
 
 ---
 
