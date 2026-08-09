@@ -160,31 +160,19 @@ Today I deliver end-to-end on projects of any size: from an MVP validated in wee
 
 **Minha contribuição** — responsável por praticamente todo o front-end do portal e do app mobile:
 
-- Construção de páginas e fluxos completos do portal, do roteamento à integração com a API
-- Biblioteca de componentes reutilizáveis compartilhada entre as telas do produto
-- Tabelas de dados com paginação server-side, ordenação, filtros combinados e seleção de linhas
-- Formulários complexos: dialogs multi-step, edição inline, validação por schema e unificação de formulários de criação/edição
-- Controle de estado da aplicação com Zustand e cache de dados de servidor com TanStack Query
-- Dashboard de entregas com gráficos e indicadores consumindo a API de métricas
-- Tratamento de datas e fuso: formatação seguindo a preferência de cada conta, agendamentos e janelas de execução
-- Views de jobs agendados, filtros de operação e ações em massa
-- App mobile em Expo: internacionalização (autenticação, agenda e perfil), layouts adaptados para tablet em retrato e paisagem
-- Geração de PDF de jobs e relatórios de comprovação de entrega
-- Autenticação e gestão de usuários, motoristas e frota, incluindo troca de senha pelo backoffice
+- **Portal** — páginas e fluxos completos, biblioteca de componentes reutilizáveis e tabelas de dados com paginação server-side, ordenação e filtros combinados
+- **Formulários e estado** — dialogs multi-step, edição inline e validação por schema, com Zustand no estado da aplicação e TanStack Query no cache de servidor
+- **Dados e relatórios** — dashboard de entregas com gráficos e indicadores, tratamento de datas e fuso por preferência de conta, geração de PDF e comprovação de entrega
+- **Mobile (Expo)** — internacionalização do app e layouts adaptados para tablet em retrato e paisagem
+- **Domínio** — autenticação e gestão de usuários, motoristas, frota e jobs agendados
 
 **My contribution** — owned virtually the entire front-end of the portal and the mobile app:
 
-- Full portal pages and flows, from routing to API integration
-- Reusable component library shared across product screens
-- Data tables with server-side pagination, sorting, combined filters, and row selection
-- Complex forms: multi-step dialogs, inline editing, schema validation, and unified create/edit forms
-- Application state with Zustand and server-state caching with TanStack Query
-- Deliveries dashboard with charts and KPIs consuming the metrics API
-- Date and timezone handling: per-account format preferences, scheduling, and execution windows
-- Scheduled jobs views, operational filters, and bulk actions
-- Expo mobile app: internationalization (auth, schedule, profile) and tablet layouts in portrait and landscape
-- Job PDF generation and proof-of-delivery reports
-- Authentication and management of users, drivers, and fleet, including backoffice password changes
+- **Portal** — full pages and flows, a reusable component library, and data tables with server-side pagination, sorting, and combined filters
+- **Forms & state** — multi-step dialogs, inline editing, and schema validation, with Zustand for app state and TanStack Query for server-state caching
+- **Data & reporting** — deliveries dashboard with charts and KPIs, date/timezone handling per account preference, PDF generation and proof of delivery
+- **Mobile (Expo)** — app internationalization and tablet layouts in portrait and landscape
+- **Domain** — authentication and management of users, drivers, fleet, and scheduled jobs
 
 ---
 
